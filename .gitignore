@@ -1,0 +1,4 @@
+.chef
+.vagrant
+.chef
+nodes/*
